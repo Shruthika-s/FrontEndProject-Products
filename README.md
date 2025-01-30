@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-This is a simple front-end project that mimics an e-commerce website. It fetches product data from a public API and displays them in a grid format. Users can search for products and view details in a modal when clicked.
+This is a simple front-end project that mimics an e-commerce website, built using React and React Bootstrap. The website fetches product data from the FakeStore API and presents it in an organized, user-friendly layout. Users can search for products by name and view more detailed information by clicking on a product card, which opens a modal displaying the product's image, price, description, and other relevant details.
 
 ## Features
 
